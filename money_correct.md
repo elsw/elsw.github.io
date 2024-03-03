@@ -9,7 +9,7 @@ Time for a drink to celebrate?
 [300](incorrect) [315](incorrect) [330](incorrect) [345](incorrect)
 [400](incorrect) [415](incorrect) [430](incorrect) [445](incorrect)
 [500](incorrect) [515](incorrect) [530](incorrect) [545](incorrect)
-[600](incorrect) [615](incorrect) [630](incorrect) [645](incorrect)
+[600](incorrect) [615](incorrect) [630](time_correct) [645](incorrect)
 [700](incorrect) [715](incorrect) [730](incorrect) [745](incorrect)
 [800](incorrect) [815](incorrect) [830](incorrect) [845](incorrect)
 [900](incorrect) [915](incorrect) [930](incorrect) [945](incorrect)
