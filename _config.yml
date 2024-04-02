@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Malcom's Escape Race 2024
+title: Hayle Escape Race 2024
 email: 
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
